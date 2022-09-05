@@ -15,6 +15,7 @@ public class Day {
 		
 		System.out.println("hbfubfdfiuvifudvnifdnvifdnv");
 		System.out.println("1234567947616856554566");
+		System.out.println("12345679476dehihishfiusfishisfhidshidshdsihdsich16856554566");
 	}
 
 }
